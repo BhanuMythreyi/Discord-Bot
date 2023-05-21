@@ -10,7 +10,7 @@ Hence to reduce the effort of the managers or the admins it would be helpful if 
 
 A Bot can act as the best solution in this case 
 
-<h2>Design and Methodology<h2>
+<h2>Design and Methodology</h2>
 
 We intend to design a discord bot to solve this issue 
 
