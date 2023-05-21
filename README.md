@@ -2,11 +2,14 @@
 <pre>
 <h2>Problem Statement</h2>
 
-Discord channels and telegram groups are major forms of communication when communication between a large set of people is involved. These are not only used for unofficial communication but are also used for official communication these days. 
+Discord channels and telegram groups are major forms of communication when communication between a large set of people is 
+involved. These are not only used for unofficial communication but are also used for official communication these days. 
 
-Having said that it would be really difficult for admins to manage all the users by answering all of their queries as they could be repetitive (most common queries) 
+Having said that it would be really difficult for admins to manage all the users by answering all of their queries as they
+could be repetitive (most common queries) 
 
-Hence to reduce the effort of the managers or the admins it would be helpful if they find an alternative to answer those kind of queries 
+Hence to reduce the effort of the managers or the admins it would be helpful if they find an alternative to answer those 
+kind of queries 
 
 A Bot can act as the best solution in this case 
 
@@ -14,13 +17,17 @@ A Bot can act as the best solution in this case
 
 We intend to design a discord bot to solve this issue 
 
-The reason for choosing discord is that whatsapp has a limitation of how many members can be added in a group but discord doesn’t have any such 
+The reason for choosing discord is that whatsapp has a limitation of how many members can be added in a group but discord
+doesn’t have any such 
 
-Also in terms of privacy, for someone to be on whatsapp or have an account on whatsapp they should share their mobile number. But discord just displays username to others using it unlike whatsapp and telegram which directly displays the mobile number publicly 
+Also in terms of privacy, for someone to be on whatsapp or have an account on whatsapp they should share their mobile 
+number. But discord just displays username to others using it unlike whatsapp and telegram which directly displays the 
+mobile number publicly 
 
  
 
-To design a discord bot, we need to create a server on discord along with which we create a bot and generate token to access the control of the bot 
+To design a discord bot, we need to create a server on discord along with which we create a bot and generate token to 
+access the control of the bot 
 
 We choose all the controls that the bot can have on the server in the options designated  
 
